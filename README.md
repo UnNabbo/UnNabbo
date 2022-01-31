@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on [Origin](https://github.com/UnNabbo/Origin)
 
 - 🌱 I’m currently learning **OpenGL**
-
-- 📫 How to reach me **saveriocioccolini@gmail.com**
-
+- 
 <div align="center">
   <h2>Most Used Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnNabbo&layout=compat&theme=onedark">
