@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Nabbo</h1>
 <h3 align="center"><i> "Be Hungry, Be Foolish" <br> -Steve Jobs</i></h3>
 
-- 🔭 I’m currently working on [Origin](https://github.com/UnNabbo/Origin)
+- 🔭 I’m currently working on [Alpha Studio](https://github.com/UnNabbo/Alpha-Studio)
 
 - 🌱 I’m currently learning **OpenGL**
 
